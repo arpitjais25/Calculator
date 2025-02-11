@@ -193,4 +193,5 @@ function solve(){
     document.querySelector("#calD").value=ans;
     floatv=[];
     // first commit
+    let a;
 } 
