@@ -191,5 +191,6 @@ function solveMulty(){
 function solve(){
     let ans=floatv[floatv.length-2];
     document.querySelector("#calD").value=ans;
-   
+    floatv=[];
+    // first commit
 } 
