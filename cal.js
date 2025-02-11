@@ -187,9 +187,9 @@ function solveMulty(){
         // if(floatv[j]=="%"){
             // floatv[j+1]=floatv[j-1]%floatv[j+1]
         // }
+        // this is my first commit
 function solve(){
     let ans=floatv[floatv.length-2];
     document.querySelector("#calD").value=ans;
     floatv=[];
 } 
-// this is my first commit
